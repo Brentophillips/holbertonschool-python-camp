@@ -1,1 +1,2 @@
-# holbertonschool-python-camp
+# README
+This is a README file
